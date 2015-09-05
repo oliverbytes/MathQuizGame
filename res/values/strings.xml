@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MathQuiz</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MathQuiz</string>
+    <string name="title_activity_quiz">MathQuiz</string>
+
+</resources>
